@@ -91,5 +91,5 @@
 # camunda/camunda-bpm-platform:7.23.0-SNAPSHOT
 # rabbitmq:4.0.3-management-alpine
 # whyour/qinglong:latest
-postgres:13
-sonarqube:9.9-community
+# postgres:13
+# sonarqube:9.9-community
