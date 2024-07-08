@@ -9,4 +9,5 @@
 # nacos/nacos-server:v2.3.2-slim
 # mysql:8.0.35
 # redis:7.2.5
-whyour/qinglong:latest
+# whyour/qinglong:latest
+openjdk:8-jdk-alpine
