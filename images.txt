@@ -16,4 +16,5 @@
 # elasticsearch:7.17.22
 # docker.io/jenkinsci/blueocean
 # zookeeper:latest
-minio/minio
+# minio/minio
+clickhouse/clickhouse-server
