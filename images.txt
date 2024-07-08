@@ -20,6 +20,7 @@
 # clickhouse/clickhouse-server
 # postgres
 # apache/doris:build-env-ldb-toolchain-latest
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.2.11
+# quay.io/coreos/etcd:v3.5.5
+# minio/minio:RELEASE.2023-03-20T20-16-18Z
+# milvusdb/milvus:v2.2.11
+jenkins/jenkins:latest
