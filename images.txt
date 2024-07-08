@@ -18,4 +18,5 @@
 # zookeeper:latest
 # minio/minio
 # clickhouse/clickhouse-server
-postgres
+# postgres
+apache/doris:build-env-ldb-toolchain-latest
