@@ -17,4 +17,5 @@
 # docker.io/jenkinsci/blueocean
 # zookeeper:latest
 # minio/minio
-clickhouse/clickhouse-server
+# clickhouse/clickhouse-server
+postgres
