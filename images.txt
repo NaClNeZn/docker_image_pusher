@@ -25,4 +25,5 @@
 # milvusdb/milvus:v2.2.11
 # jenkins/jenkins:latest
 # apache/kafka:3.7.0
-bitnami/kafka:latest
+# bitnami/kafka:latest
+jenkinszh/jenkins-zh:lts
