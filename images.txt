@@ -13,4 +13,5 @@
 # openjdk:8-jdk-alpine
 # gvenzl/oracle-xe:11
 # kibana:7.17.22
-elasticsearch:7.17.22
+# elasticsearch:7.17.22
+docker.io/jenkinsci/blueocean
