@@ -12,4 +12,5 @@
 # whyour/qinglong:latest
 # openjdk:8-jdk-alpine
 # gvenzl/oracle-xe:11
-kibana:7.17.22
+# kibana:7.17.22
+elasticsearch:7.17.22
