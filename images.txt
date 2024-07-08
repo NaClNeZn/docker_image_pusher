@@ -8,4 +8,5 @@
 # seataio/seata-server:2.0.0-slim
 # nacos/nacos-server:v2.3.2-slim
 # mysql:8.0.35
-redis:7.2.5
+# redis:7.2.5
+whyour/qinglong:latest
