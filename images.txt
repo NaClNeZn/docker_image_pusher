@@ -27,4 +27,5 @@
 # apache/kafka:3.7.0
 # bitnami/kafka:latest
 # jenkinszh/jenkins-zh:lts
-nginx:stable
+# nginx:stable
+containrrr/watchtower
