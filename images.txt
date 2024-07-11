@@ -30,4 +30,5 @@
 # nginx:stable
 # containrrr/watchtower
 # saplabs/hanaexpress:latest
-eipwork/kuboard:v3
+# eipwork/kuboard:v3
+rancher/k3s:v1.28.11-k3s1
