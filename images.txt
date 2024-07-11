@@ -29,4 +29,5 @@
 # jenkinszh/jenkins-zh:lts
 # nginx:stable
 # containrrr/watchtower
-saplabs/hanaexpress:latest
+# saplabs/hanaexpress:latest
+eipwork/kuboard:v3
