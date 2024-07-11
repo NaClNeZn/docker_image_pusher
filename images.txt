@@ -28,4 +28,5 @@
 # bitnami/kafka:latest
 # jenkinszh/jenkins-zh:lts
 # nginx:stable
-containrrr/watchtower
+# containrrr/watchtower
+saplabs/hanaexpress:latest
