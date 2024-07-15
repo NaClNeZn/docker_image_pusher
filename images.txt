@@ -32,4 +32,5 @@
 # saplabs/hanaexpress:latest
 # eipwork/kuboard:v3
 # rancher/k3s:v1.28.11-k3s1
-grafana/grafana:8.3.3
+# grafana/grafana:8.3.3
+nginx:1.14-alpine
