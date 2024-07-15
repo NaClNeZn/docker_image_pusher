@@ -34,4 +34,5 @@
 # rancher/k3s:v1.28.11-k3s1
 # grafana/grafana:8.3.3
 # nginx:1.14-alpine
-eipwork/kuboard:v4
+# eipwork/kuboard:v4
+kubernetesui/metrics-scraper:v1.0.8
