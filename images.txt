@@ -36,4 +36,4 @@
 # nginx:1.14-alpine
 # eipwork/kuboard:v4
 # kubernetesui/metrics-scraper:v1.0.8
-metrics-server/metrics-server:v0.7.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
