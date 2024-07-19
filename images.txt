@@ -44,4 +44,5 @@
 # apache/kafka:3.7.1
 # provectuslabs/kafka-ui:latest
 # neo4j:enterprise-ubi9
-memcached:1.6.29
+# memcached:1.6.29
+grafana/loki:main-960c034
