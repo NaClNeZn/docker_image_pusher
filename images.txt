@@ -43,4 +43,5 @@
 # questdb/questdb:6.0.4
 # apache/kafka:3.7.1
 # provectuslabs/kafka-ui:latest
-neo4j:enterprise-ubi9
+# neo4j:enterprise-ubi9
+memcached:1.6.29
