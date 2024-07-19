@@ -45,4 +45,5 @@
 # provectuslabs/kafka-ui:latest
 # neo4j:enterprise-ubi9
 # memcached:1.6.29
-grafana/loki:main-960c034
+# grafana/loki:main-960c034
+ollama/ollama:0.2.7-rocm
