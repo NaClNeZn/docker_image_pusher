@@ -42,4 +42,5 @@
 # eipwork/kuboard:v3
 # questdb/questdb:6.0.4
 # apache/kafka:3.7.1
-provectuslabs/kafka-ui:latest
+# provectuslabs/kafka-ui:latest
+neo4j:enterprise-ubi9
