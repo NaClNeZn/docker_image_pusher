@@ -48,4 +48,5 @@
 # grafana/loki:main-960c034
 # ollama/ollama:0.2.7-rocm
 # xuxueli/xxl-job-admin:2.4.1
-elasticsearch:7.17.9
+# elasticsearch:7.17.9
+mongodb/mongodb-community-server:7.0.8-ubuntu2204
