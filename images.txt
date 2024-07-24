@@ -54,4 +54,5 @@
 # mongodb/mongodb-enterprise-server:7.0.9-ubuntu2204
 # nginx:stable-perl
 # node:16.20.2-slim
-node:20-slim
+# node:20-slim
+mongo:7.0.12-jammy
