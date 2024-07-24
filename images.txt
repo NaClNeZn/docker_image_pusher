@@ -51,4 +51,5 @@
 # elasticsearch:7.17.9
 # mongodb/mongodb-community-server:7.0.8-ubuntu2204
 # mongodb/mongodb-enterprise-server:5.0.12-ubuntu2004
-mongodb/mongodb-enterprise-server:7.0.9-ubuntu2204
+# mongodb/mongodb-enterprise-server:7.0.9-ubuntu2204
+nginx:stable-perl
