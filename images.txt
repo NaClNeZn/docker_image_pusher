@@ -55,4 +55,5 @@
 # nginx:stable-perl
 # node:16.20.2-slim
 # node:20-slim
-mongo:7.0.12-jammy
+# mongo:7.0.12-jammy
+mongo:4.4-focal
