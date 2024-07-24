@@ -56,4 +56,5 @@
 # node:16.20.2-slim
 # node:20-slim
 # mongo:7.0.12-jammy
-mongo:4.4-focal
+# mongo:4.4-focal
+mongodb/mongodb-community-server:4.4.29-ubuntu2004
