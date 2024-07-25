@@ -57,4 +57,5 @@
 # node:20-slim
 # mongo:7.0.12-jammy
 # mongo:4.4-focal
-mongodb/mongodb-community-server:4.4.29-ubuntu2004
+# mongodb/mongodb-community-server:4.4.29-ubuntu2004
+questdb/questdb:6.0.5
