@@ -60,4 +60,5 @@
 # mongodb/mongodb-community-server:4.4.29-ubuntu2004
 # questdb/questdb:6.0.5
 # memcached:alpine3.20
-eipwork/etcd-host:3.4.16-2
+# eipwork/etcd-host:3.4.16-2
+node:14.21.0-slim
