@@ -62,4 +62,5 @@
 # memcached:alpine3.20
 # eipwork/etcd-host:3.4.16-2
 # node:14.21.0-slim
-ethereum/client-go:alltools-v1.14.8
+# ethereum/client-go:alltools-v1.14.8
+ethereum/client-go:v1.14.8
