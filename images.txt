@@ -64,4 +64,6 @@
 # node:14.21.0-slim
 # ethereum/client-go:alltools-v1.14.8
 # ethereum/client-go:v1.14.8
-dyrnq/open-webui:main
+# dyrnq/open-webui:main
+canal/canal-server:v1.1.7
+canal/canal-admin:v1.1.7
