@@ -67,4 +67,5 @@
 # dyrnq/open-webui:main
 # canal/canal-server:v1.1.7
 # canal/canal-admin:v1.1.7
-zookeeper:3.7.2
+# zookeeper:3.7.2
+delron/fastdfs
