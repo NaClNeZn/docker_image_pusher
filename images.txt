@@ -71,4 +71,5 @@
 # delron/fastdfs
 # pytorch/torchserve:0.11.0-cpu
 # pytorch/torchserve:0.11.0-gpu
-nvidia/cuda:12.6.0-base-ubuntu24.04
+# nvidia/cuda:12.6.0-base-ubuntu24.04
+python:3.8.19
