@@ -73,4 +73,5 @@
 # pytorch/torchserve:0.11.0-gpu
 # nvidia/cuda:12.6.0-base-ubuntu24.04
 # python:3.8.19
-ubuntu/python:3.10-22.04_stable
+# ubuntu/python:3.10-22.04_stable
+gemfire/gemfire:9.15.13
