@@ -75,4 +75,5 @@
 # python:3.8.19
 # ubuntu/python:3.10-22.04_stable
 # gemfire/gemfire:9.15.13
-apachegeode/geode:1.15.1
+# apachegeode/geode:1.15.1
+graylog/graylog:6.0
