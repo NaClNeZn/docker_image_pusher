@@ -76,4 +76,5 @@
 # ubuntu/python:3.10-22.04_stable
 # gemfire/gemfire:9.15.13
 # apachegeode/geode:1.15.1
-graylog/graylog:6.0
+# graylog/graylog:6.0
+rapidfort/openldap-ib:2.6.6
