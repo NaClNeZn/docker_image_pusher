@@ -77,4 +77,5 @@
 # gemfire/gemfire:9.15.13
 # apachegeode/geode:1.15.1
 # graylog/graylog:6.0
-rapidfort/openldap-ib:2.6.6
+# rapidfort/openldap-ib:2.6.6
+osixia/phpldapadmin:stable
