@@ -81,4 +81,5 @@
 # neo4j:3.5.0
 # prom/prometheus:v2.54.1
 # grafana/grafana:11.2.0
-atmoz/sftp:alpine
+# atmoz/sftp:alpine
+starrocks/allin1-ubuntu:3.2.11
