@@ -83,4 +83,5 @@
 # grafana/grafana:11.2.0
 # atmoz/sftp:alpine
 # starrocks/allin1-ubuntu:3.2.11
-linuxserver/syslog-ng:4.7.1
+# linuxserver/syslog-ng:4.7.1
+pingcap/tidb:v6.5.11
