@@ -84,4 +84,5 @@
 # atmoz/sftp:alpine
 # starrocks/allin1-ubuntu:3.2.11
 # linuxserver/syslog-ng:4.7.1
-pingcap/tidb:v6.5.11
+# pingcap/tidb:v6.5.11
+openzipkin/zipkin-slim:3
