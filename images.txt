@@ -85,4 +85,5 @@
 # starrocks/allin1-ubuntu:3.2.11
 # linuxserver/syslog-ng:4.7.1
 # pingcap/tidb:v6.5.11
-openzipkin/zipkin-slim:3
+# openzipkin/zipkin-slim:3
+redis/redis-stack:7.4.0-v0
