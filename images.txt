@@ -87,4 +87,5 @@
 # pingcap/tidb:v6.5.11
 # openzipkin/zipkin-slim:3
 # redis/redis-stack:7.4.0-v0
-solr:8.11.4-slim
+# solr:8.11.4-slim
+quay.io/keycloak/keycloak:18.0.2
