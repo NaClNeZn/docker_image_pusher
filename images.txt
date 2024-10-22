@@ -88,4 +88,5 @@
 # openzipkin/zipkin-slim:3
 # redis/redis-stack:7.4.0-v0
 # solr:8.11.4-slim
-quay.io/keycloak/keycloak:18.0.2
+# quay.io/keycloak/keycloak:18.0.2
+camunda/camunda-bpm-platform:7.23.0-SNAPSHOT
