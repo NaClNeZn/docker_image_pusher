@@ -89,4 +89,5 @@
 # redis/redis-stack:7.4.0-v0
 # solr:8.11.4-slim
 # quay.io/keycloak/keycloak:18.0.2
-camunda/camunda-bpm-platform:7.23.0-SNAPSHOT
+# camunda/camunda-bpm-platform:7.23.0-SNAPSHOT
+rabbitmq:4.0.3-management-alpine
