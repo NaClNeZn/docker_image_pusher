@@ -9,7 +9,6 @@
 # nacos/nacos-server:v2.3.2-slim
 # mysql:8.0.35
 # redis:7.2.5
-# whyour/qinglong:latest
 # openjdk:8-jdk-alpine
 # gvenzl/oracle-xe:11
 # kibana:7.17.22
@@ -90,4 +89,5 @@
 # solr:8.11.4-slim
 # quay.io/keycloak/keycloak:18.0.2
 # camunda/camunda-bpm-platform:7.23.0-SNAPSHOT
-rabbitmq:4.0.3-management-alpine
+# rabbitmq:4.0.3-management-alpine
+whyour/qinglong:latest
