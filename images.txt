@@ -93,4 +93,9 @@
 # whyour/qinglong:latest
 # postgres:13
 # sonarqube:9.9-community
-jlesage/firefox:v25.02.2
+# jlesage/firefox:v25.02.2
+ghcr.io/coroot/coroot-node-agent:1.23.19
+ghcr.io/coroot/coroot:1.10.3
+ghcr.io/coroot/coroot-cluster-agent:1.2.2
+prom/prometheus:v2.45.4
+clickhouse/clickhouse-server:24.3
