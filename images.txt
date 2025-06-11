@@ -99,6 +99,7 @@
 # ghcr.io/coroot/coroot-cluster-agent:1.2.2
 # prom/prometheus:v2.45.4
 # clickhouse/clickhouse-server:24.3
-ghcr.io/coroot/coroot:1.10.2
-ghcr.io/coroot/coroot:1.10.1
-ghcr.io/coroot/coroot:1.10.0
+# ghcr.io/coroot/coroot:1.10.2
+# ghcr.io/coroot/coroot:1.10.1
+# ghcr.io/coroot/coroot:1.10.0
+nacos/nacos-server:v3.0.1-slim
