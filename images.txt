@@ -102,4 +102,5 @@
 # ghcr.io/coroot/coroot:1.10.2
 # ghcr.io/coroot/coroot:1.10.1
 # ghcr.io/coroot/coroot:1.10.0
-nacos/nacos-server:v3.0.1-slim
+# nacos/nacos-server:v3.0.1-slim
+ngrok/ngrok:3.23.1-alpine
