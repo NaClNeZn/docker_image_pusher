@@ -104,4 +104,5 @@
 # ghcr.io/coroot/coroot:1.10.0
 # nacos/nacos-server:v3.0.1-slim
 # ngrok/ngrok:3.23.1-alpine
-mysql:8.4.4
+# mysql:8.4.4
+ghcr.io/linuxserver/msedge:version-137.0.3296.93-1
