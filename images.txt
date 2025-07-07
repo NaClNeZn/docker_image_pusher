@@ -107,4 +107,5 @@
 # mysql:8.4.4
 # ghcr.io/linuxserver/msedge:version-137.0.3296.93-1
 # zhaojun1998/zfile:4.3.2
-neosmemo/memos:0.24
+# neosmemo/memos:0.24
+qdrant/qdrant:v1.14.1
