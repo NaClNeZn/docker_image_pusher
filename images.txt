@@ -109,4 +109,5 @@
 # zhaojun1998/zfile:4.3.2
 # neosmemo/memos:0.24
 # qdrant/qdrant:v1.14.1
-mindsdb/mindsdb:v25.7.2.0-lightwood
+# mindsdb/mindsdb:v25.7.2.0-lightwood
+excalidraw/excalidraw:latest
