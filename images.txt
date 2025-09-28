@@ -111,4 +111,5 @@
 # qdrant/qdrant:v1.14.1
 # mindsdb/mindsdb:v25.7.2.0-lightwood
 # excalidraw/excalidraw:latest
-whyour/qinglong:2.19
+# whyour/qinglong:2.19
+jlesage/firefox:v25.09.1
