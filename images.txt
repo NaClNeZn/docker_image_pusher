@@ -113,4 +113,4 @@
 # excalidraw/excalidraw:latest
 # whyour/qinglong:2.19
 # jlesage/firefox:v25.09.1
-ghcr.io/komari-monitor/komari:1.1.2a
+ghcr.io/komari-monitor/komari:1.1.2
