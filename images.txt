@@ -114,4 +114,4 @@
 # whyour/qinglong:2.19
 # jlesage/firefox:v25.09.1
 # ghcr.io/komari-monitor/komari:latest
-openjdk:8-jre-slim
+openjdk:8u111-jdk
