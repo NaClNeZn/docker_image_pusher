@@ -116,4 +116,6 @@
 # ghcr.io/komari-monitor/komari:latest
 # openjdk:8u111-jdk
 # ghcr.io/nicholas-fedor/watchtower:1.12.3
-node:14.16.0-slim
+# node:14.16.0-slim
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+rustfs/rustfs:1.0.0-alpha.77
