@@ -120,4 +120,5 @@
 # minio/minio:RELEASE.2025-09-07T16-13-09Z
 # rustfs/rustfs:1.0.0-alpha.77
 # postgres:17.7
-zlmediakit/zlmediakit:master
+# zlmediakit/zlmediakit:master
+redis/redis-stack:7.4.0-v8
