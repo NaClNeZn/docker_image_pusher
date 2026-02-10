@@ -121,4 +121,6 @@
 # rustfs/rustfs:1.0.0-alpha.77
 # postgres:17.7
 # zlmediakit/zlmediakit:master
-redis/redis-stack:7.4.0-v8
+# redis/redis-stack:7.4.0-v8
+maven:3.8.6-eclipse-temurin-17
+eclipse-temurin:17-jre
