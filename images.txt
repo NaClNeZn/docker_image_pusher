@@ -124,4 +124,5 @@
 # redis/redis-stack:7.4.0-v8
 # maven:3.8.6-eclipse-temurin-17
 # eclipse-temurin:17-jre
-soulter/astrbot:v4.20.0
+#soulter/astrbot:v4.20.0
+ghcr.io/sillytavern/sillytavern:1.18.0
