@@ -127,5 +127,7 @@
 # soulter/astrbot:v4.20.0
 # ghcr.io/sillytavern/sillytavern:1.18.0
 # ghcr.io/sillytavern/sillytavern:1.19.0
-harness/harness:3.3.0
+# harness/harness:3.3.0
+soulter/astrbot:v4.29.1
+
 
