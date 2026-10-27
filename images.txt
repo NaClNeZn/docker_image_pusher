@@ -129,5 +129,6 @@
 # ghcr.io/sillytavern/sillytavern:1.19.0
 # harness/harness:3.3.0
 # soulter/astrbot:v4.29.1
-nousresearch/hermes-agent:v0.22.2
+# nousresearch/hermes-agent:v0.22.2
+openviking/openviking:v0.5.1.2
 
